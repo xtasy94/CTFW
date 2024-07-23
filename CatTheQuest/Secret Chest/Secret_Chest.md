@@ -4,7 +4,7 @@
 **Description:** A secure chest containing a precious document is protected by a special request. Your mission is to unlock this chest by sending a POST request containing a unique and secret parameter. The document is well-guarded, and only the word can reveal it.
 
 <b>Challenge Help:</b>
-![Challenge Help Image]()
+![Challenge Help Image](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Secret%20Chest/Images/Challenge_Help.png)
 
 Use this information to achieve the resolution of the challenge
 165.227.157.253:5000/flag - HTTP POST with token.
