@@ -17,7 +17,7 @@ Upon listening to the audio, it seems there is nothing hidden within it. Therefo
 The spectrogram reveals the message: 'CODE: THE_MONSTER_IS'. It appears incomplete. Considering the audio file's name, '_YOU', it seems to complement the partial code from the spectrogram. Therefore, the full code is likely 'THE_MONSTER_IS_YOU'. The next step is to determine what this code might be used for.
 Considering the challenge title, 'Deep Sound Deep Vision,' it suggests a possible involvement of the software ['Deepsound 2.0.'](https://deepsound.en.uptodown.com/windows) A tool used for steganography and audio conversion, allowing users to hide secret data within audio files and also extract hidden files from audio files or CD tracks.
 
-Upon opening the file in DeepSound 2.0, we are prompted to enter a password. After entering the correct password, we can access a hidden file named '[MONSTERS.txt](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/MONSTERS.txt)', we extract the file and save it.
+Upon opening the file in DeepSound 2.0, we are prompted to enter a password. After entering the correct password, we can access a hidden file named ['MONSTERS.txt'](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/MONSTERS.txt), we extract the file and save it.
 
 We look at the MONSTERS.txt and we can see that there is something that can be helpful to us, now we write a script that can extract and print all sequences of two or more consecutive digits from the `MONSTERS.txt` file, [extract.py](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/extract.py): 
 
