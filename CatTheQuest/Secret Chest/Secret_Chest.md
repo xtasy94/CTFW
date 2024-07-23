@@ -20,7 +20,7 @@ A and M in uppercase.
 4. The first industrial revolution began in the year 1760. The product of the digits in 1760 is 1 * 7 * 6 * 0, which equals 0, which would be our 4th part.
 5. The fifth part according to the challenge help is "key" followed by the number of letters in the word, giving us the answer: "key3", which is our last part.
 
-Combining all of them, we get: <b>3AyrucreM0key3</b>
+Combining all of them, we get: `3AyrucreM0key3`
 ### Sending the POST request:
 According to the challenge instructions, we have to send an HTTP POST request containing a unique and secret parameter to get the flag, here's the cURL request would look like:
 ```
