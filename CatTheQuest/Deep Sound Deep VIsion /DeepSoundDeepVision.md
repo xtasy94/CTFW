@@ -21,6 +21,6 @@ Upon opening the file in DeepSound 2.0, we are prompted to enter a password. Aft
 
 We look at the MONSTERS.txt and we can see that there is something that can be helpful to us, now we write a script that can extract and print all sequences of two or more consecutive digits from the `MONSTERS.txt` file, [extract.py](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/extract.py): 
 
-![Image](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/carbon.png)
+![Image](https://github.com/xtasy94/CTFW/blob/main/CatTheQuest/Deep%20Sound%20Deep%20VIsion%20/Files/code.png)
 
 Next, we take the output and input it into [CyberChef](https://cyberchef.org/). In the Recipe tab, drag the "From Decimal" operation into the workspace and set the delimiter to "Line Feed", which gives us our flag in the output: `CAT{Look_Behind_You_HaHaHa}`
