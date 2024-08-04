@@ -14,10 +14,11 @@ We clone the repository in our local machine and set it up, after setting it up 
 sstv -d chall.wav -o result.png
 ```
 
-And this is the output we get: 
+And this is the output we get:
+
 ![cmd.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/cmd.png)
 
-**result.png:**
+
 ![result.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/result.png)
 
 Hence, the flag is: `CTF{0x684736210}`
