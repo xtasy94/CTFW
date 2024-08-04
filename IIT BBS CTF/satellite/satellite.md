@@ -15,9 +15,9 @@ sstv -d chall.wav -o result.png
 ```
 
 And this is the output we get: 
-[!cmd.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/cmd.png)
+![cmd.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/cmd.png)
 
 **result.png:**
-[!result.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/result.png)
+![result.png](https://github.com/xtasy94/CTFW/blob/main/IIT%20BBS%20CTF/satellite/Files/result.png)
 
 Hence, the flag is: `CTF{0x684736210}`
