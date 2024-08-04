@@ -8,7 +8,7 @@
 ## Solution: 
 After listening to the audio file for a few seconds, it's clear that it can be decoded using SSTV decoders. I used an open-source repository found on GitHub: [colaclanth/sstv: SSTV Decoder](https://github.com/colaclanth/sstv), which works on audio files rather than a soundcard like most other decoders.
 
-We clone the repository in our local machine and set it up, after setting it up we just run the following command: 
+We clone the repository to our local machine and set it up. After setup, we run the following command:
 
 ```
 sstv -d chall.wav -o result.png
