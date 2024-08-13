@@ -1,2 +1,2 @@
 # CaptureTheFlag: Writeups
-### Welcome to my CTF Writeups repository! Here you'll find solutions and explanations for various Capture The Flag (CTF) challenges. These writeups are aimed at helping others understand the techniques and tools used to solve these challenges.
+### Welcome to my CTF Writeups repository! Here you'll find solutions and explanations for various Capture The Flag (CTF) challenges. These writeups are aimed at helping others understand the techniques and tools used to solve these challenges. (I love posting the challenges I find fun.)
