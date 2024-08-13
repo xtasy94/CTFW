@@ -1,4 +1,4 @@
-# LIT CTF: crypto/simple otp
+# LIT CTF 2024: crypto/simple otp
 **Title:** crypto/simple otp
 
 **Description:** We all know OTP is unbreakable...
