@@ -1,7 +1,7 @@
 # LIT CTF 2024: web/jwt-1
 **Title:** web/jwt-1
 
-**Description:** Welcome to my latest website! In an effort to modernize, I've moved away from traditional cookies and adopted a more advanced authentication method. Say goodbye to sessions forever! Give it a try at [http://litctf.org:31781/](http://litctf.org:31781/).
+**Description:** I just made a website. Since cookies seem to be a thing of the old days, I updated my authentication! With these modern web technologies, I will never have to deal with sessions again. Come try it out at [http://litctf.org:31781/](http://litctf.org:31781/).
 ## Solution:
 The description hints at the use of cookies for authentication. Here’s how you can solve it:
 
