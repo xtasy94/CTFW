@@ -2,6 +2,7 @@
 **Title:** web/jwt-2
 
 **Description:** its like jwt-1 but this one is harder URL: [http://litctf.org:31777/](http://litctf.org:31777/).
+**Files:** [index.ts](https://github.com/xtasy94/CTFW/blob/main/LIT%20CTF/jwt-2/Files/index.ts)
 ## Solution:
 This is the sequel of the challenge [jwt-1](https://github.com/xtasy94/CTFW/blob/main/LIT%20CTF/jwt-1/jwt-1.md), the description hints at manipulating JWT tokens to gain access to a protected resource. Here’s how we approached the problem:
 
