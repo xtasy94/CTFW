@@ -12,7 +12,7 @@ header = {
 jwt_header = base64.urlsafe_b64encode(json.dumps(header).encode('utf-8')).decode('utf-8').rstrip('=')
 
 payload = {
-    'name': 'testuser',
+    'name': 'testuserBITSAT',
     'admin': True
 }
 jwt_payload = base64.urlsafe_b64encode(json.dumps(payload).encode('utf-8')).decode('utf-8').rstrip('=')
