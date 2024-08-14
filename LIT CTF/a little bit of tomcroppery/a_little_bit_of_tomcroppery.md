@@ -28,7 +28,7 @@ The `binwalk` output reveals several interesting pieces of information:
 - Importantly, there is another PNG image embedded within the file, starting at offset 449394, with dimensions 928 x 536 pixels.
 - More Zlib compressed data is found right after this second PNG image.
 ### Step 2: Extract the Hidden PNG Image:
-To investigate further, I extracted the hidden PNG image found at offset `449394`. This was done using the [dd](https://www.geeksforgeeks.org/dd-command-linux/) command:
+To investigate further, I extracted the hidden PNG image found at offset `449394`. This was done using the [dd](https://man7.org/linux/man-pages/man1/dd.1.html) command:
 ```
 └─$ dd if=image.png of=extracted_image.png bs=1 skip=449394
 
