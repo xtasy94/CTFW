@@ -21,7 +21,7 @@ To see what's inside the website we just do run the following command:
 </html>
 ```
 
-We observe that there's a file named [index-DLdRi53f.js](https://github.com/xtasy94/CTFW/blob/main/LIT%20CTF/kablewy/Files/index-DLdRi53f.js), we notice that there are certain constants set here in [Base64](https://en.wikipedia.org/wiki/Base64), like:
+We observe that there's a file named [index-DLdRi53f.js](https://github.com/xtasy94/CTFW/blob/main/LIT%20CTF/kablewy/Files/index-DLdRi53f.js), we notice that there are certain constants set here using [Base64](https://en.wikipedia.org/wiki/Base64) encoding, like:
 ```javascript
 const y = "KGZ1bmN0aW9uKCl7InVzZSBzdHJpY3QiO2V2YWwoYXRvYigiZDJocGJHVWdLSFJ5ZFdVcElHTnZibk52YkdVdWJHOW5LQ2RyWVdKc1pYZDVKeWs3Q25CdmMzUk5aWE56WVdkbEtDZE1KeWs3IikpfSkoKTsK"
 ```
