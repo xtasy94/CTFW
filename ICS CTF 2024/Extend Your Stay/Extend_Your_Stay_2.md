@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Extend Your Stay 2
 
 **Title:** Extend Your Stay - 2
+
 **Description:** Along with protecting internet users from rodents, this extension (same extension as `Extend Your Stay - 1` seems to hijack links to a particular site and redirect them to a forgery with a similar-looking URL controlled by the developers. What is the URL of the site that links get redirected to?  
   
 _Flag format: URL. Example: **[http://www.example.com](http://www.example.com/)**_
