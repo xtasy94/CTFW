@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Register the Dots - 1
 
 **Title:** Register the Dots - 1
+
 **Description:** During a regular audit of system startup behavior, a network connection was observed from Benji, an IT worker for Driftveil City.  
   
 Benji ran the tool suite KAPE (Kroll Artifact Parser And Extractor) on her computer and would like your assistance analyzing the resulting KAPE capture data.  
