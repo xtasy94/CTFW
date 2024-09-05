@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Extend Your Stay 3
 
 **Title:** Extend Your Stay - 3
+
 **Description:** A second suspicious Chrome extension has been identified, this time on a computer used by the purchasing department to procure medical supplies. Based on posters and field guides identified in the purchasing office, it seems the purchasing staff are big birdwatchers. You suspect that this extension is attempting to steal sensitive financial data.  
   
 What type of card does this extension collect numbers for?  
