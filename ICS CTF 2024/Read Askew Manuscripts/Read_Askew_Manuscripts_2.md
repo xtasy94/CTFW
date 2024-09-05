@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Read Askew Manuscripts - 2
 
 **Title:** Read Askew Manuscripts - 2
+
 **Description:** It appears that the thief attempted to upload the stolen patient image to a cloud storage site via HTTPS but was unsuccessful as the X-Ray VM is blocked from accessing the internet.  
   
 What password did they use to try to log into the site?  
