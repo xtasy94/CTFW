@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Read Askew Manuscripts - 3
 
 **Title:** Read Askew Manuscripts - 3
+
 **Description:** What is the name of the patient whose image the thief stole?  
   
 _Flag format: First and last name of the patient. Example: **Jane Doe**_
