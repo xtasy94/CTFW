@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Extend Your Stay 1
 
 **Title:** Extend Your Stay - 1
+
 **Description:** Despite Virbank Medical's quarterly cybersecurity reminders and strong policies against installing unapproved software, users just keep doing it. A suspicious browser extension was recently identified on a user's workstation.  
   
 What flag does the extension print to the console when it is installed?  
