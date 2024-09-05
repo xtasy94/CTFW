@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Read Askew Manuscripts - 1
 
 **Title:** Read Askew Manuscripts - 1
+
 **Description:** Medical equipment is extremely expensive and Virbank Medical can't always afford to upgrade to the latest and greatest. The chest X-ray machine, for example, is from 2004 and can only be controlled using a computer running Windows XP SP3. When the previous X-ray PC's motherboard died, the IT team made the decision to virtualize its hard drive on a more modern machine.  
   
 The Driftveil Police Department called this morning with troubling news. It appears that a patient's image was stolen from the hospital. With no forensics team available locally, the task has fallen to you. The IT department has provided you with a [memory dump from the X-Ray VM](https://drive.google.com/file/d/1cYH5fPGhYEf1xDcPhzk7RovJjvpy46PI/view?usp=sharing) to analyze. From reading the manufacturer's documentation, you know that the serial number of the X-Ray machine is stored in the registry key `Software\ACME_XRay`.  
