@@ -1,6 +1,7 @@
 # ICS CTF 2024 - Register the Dots - 2A and 2B
 
 **Title:** Register the Dots - 2A & 2B
+
 **Description:** `2A:` Using the `C:\Users\Benji\AppData\Local\Temp\ditto.exe` executable you found in `Register the Dots - 1`, Benji would like your assistance finding the password was used in this suspicious network connection.  
   
 What is the password that is sent by the ditto.exe application?  
