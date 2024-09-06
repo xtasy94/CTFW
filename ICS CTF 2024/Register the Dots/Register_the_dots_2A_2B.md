@@ -2,17 +2,18 @@
 
 **Title:** Register the Dots - 2A & 2B
 
-**Description:** `2A:` Using the `C:\Users\Benji\AppData\Local\Temp\ditto.exe` executable you found in `Register the Dots - 1`, Benji would like your assistance finding the password was used in this suspicious network connection.  
+**Description:** 
+- 2A: Using the `C:\Users\Benji\AppData\Local\Temp\ditto.exe` executable you found in `Register the Dots - 1`, Benji would like your assistance finding the password was used in this suspicious network connection.  
   
-What is the password that is sent by the ditto.exe application?  
+   - What is the password that is sent by the ditto.exe application?  
   
-_Flag format: password. Example: **p@ssword123**_
+    - _Flag format: password. Example: **p@ssword123**_
 
-`2B:` Using the `C:\Users\Benji\AppData\Local\Temp\ditto.exe` executable you found in `Register the Dots - 1`, Benji would like your assistance finding what this network connection was reaching out to.  
+- 2B: Using the `C:\Users\Benji\AppData\Local\Temp\ditto.exe` executable you found in `Register the Dots - 1`, Benji would like your assistance finding what this network connection was reaching out to.  
   
-What is the IP address the ditto.exe application connects to?  
+   - What is the IP address the ditto.exe application connects to?  
   
-_Flag format: IP address. Example: **192.168.1.1**_
+   - _Flag format: IP address. Example: **192.168.1.1**_
 
 ## Solution:
 Now that we've found the executable, let's send it over to [Virustotal](https://www.virustotal.com/gui/file/aed7837875c59c1d98a9dde8f05c3521e7ac53c5f940f57d333950cfe1792f71/behavior) for dynamic analysis:
