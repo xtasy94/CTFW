@@ -14,7 +14,7 @@ I tried running `strings` to the `memdump.raw` file and output it to `memdump_st
 https://www.ev1lf1lestorage.info/?directory=images&user=ominousnoteperson&passB64=aWxpa2V3cml0aW5nb21pbm91c25vdGVz&login=true
 ```
 
-I decoded the password:
+I decoded the base64 encoded string:
 ```
 $ echo "aWxpa2V3cml0aW5nb21pbm91c25vdGVz" | base64 -d
 ilikewritingominousnotes
