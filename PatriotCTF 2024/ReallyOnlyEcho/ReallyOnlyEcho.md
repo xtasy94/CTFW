@@ -4,7 +4,7 @@
 **Description:** Hey, I have made a terminal that only uses echo, can you find the flag?
 `nc chal.competitivecyber.club 3333`
 
-**Files:** server.py
+**Files:** [server.py](https://github.com/xtasy94/CTFW/blob/main/PatriotCTF%202024/ReallyOnlyEcho/Files/server.py)
 
 ## Solution:
 So, in this challenge we were given a terminal where we can only use the `echo` command, now the first step should be to locate where the flag might be, I start searching from the `root` directory:
