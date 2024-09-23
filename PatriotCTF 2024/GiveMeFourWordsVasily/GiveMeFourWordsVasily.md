@@ -7,7 +7,8 @@ We want to know precisely where the aft end of northernmost submarine attached t
 
 Submission format: PCTF{three.position.words.class_name} Example submission: PCTF{employing.broken.imports.sierra}
 
-**Files:** ![sbububmarine.png](https://github.com/xtasy94/CTFW/blob/main/PatriotCTF%202024/GiveMeFourWordsVasily/Files/sbububmarine.png)
+**Files:** 
+![sbububmarine.png](https://github.com/xtasy94/CTFW/blob/main/PatriotCTF%202024/GiveMeFourWordsVasily/Files/sbububmarine.png)
 
 ## Solution:
 First I started by searching for the image online hoping to find something similar in it, finding something similar to these highlighted things in the original image:
