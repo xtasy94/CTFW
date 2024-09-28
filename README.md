@@ -48,7 +48,9 @@ CTFW
 ├── PatriotCTF 2024
 │   ├── Impersonate
 │   │   └── Impersonate.md
-│   └── ReallyOnlyEcho
-│       └── ReallyOnlyEcho.md
+│   ├─── ReallyOnlyEcho
+│   │   └── ReallyOnlyEcho.md
+│   └── GiveMeFourWordsVasily
+│       └── GiveMeFourWordsVasily.md
 └── README.md
 ```
